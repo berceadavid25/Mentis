@@ -1,4 +1,4 @@
-# mentis
+# Mentis
 
 A mobile platform where university students answer short brand surveys
 and receive immediate, tangible rewards — free coffees, food delivery
